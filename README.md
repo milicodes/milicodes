@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mili. Front-End Developer / Junior React Developer 🎨
 - 🤍 Creating daily content for developers on Instagram (@mili.codes)
-- 🌱 Currently studying -> React / Threejs
+- 🌱 Currently studying -> React.js / Threejs
 - ✅ Available for work and collaborations 👍
 - 📧 For bussiness inquiries: dev.milicodes@gmail.com 
 
